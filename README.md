@@ -1,6 +1,6 @@
 # Recurrent Fast Weight Programmers
 
-This is the official repository containing the code we used to produce the experimental results reported in the paper:
+(Fork of) the official repository containing the code we used to produce the experimental results reported in the paper:
 
 [Going Beyond Linear Transformers with Recurrent Fast Weight Programmers (NeurIPS 2021)](https://arxiv.org/abs/2106.06295)
 
